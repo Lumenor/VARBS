@@ -37,7 +37,7 @@
 ,arc-theme,"provides a nicer gtk theme."
 ,adwaita-icon-theme,"provides nicer gtk icons."
 ,ntfs-3g,"allows accessing NTFS partitions."
-,pipewire,"is the audio system.
+,pipewire,"is the audio system."
 ,libpulseaudio-pipewire,
 ,libpulseaudio-pipewire-32bit,
 ,alsa-utils,"is an audio interface for ALSA."
